@@ -3,7 +3,11 @@
 } */
 
 .heard{
+    background: #0a141d;
     padding: 15px;
+}
+.heard .navbar {
+    background: #0d2033;
 }
 
 .contendorCortes{
