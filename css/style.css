@@ -1,3 +1,27 @@
 /* .shadow-sm  {
     margin-bottom: 10px;
 } */
+
+.heard{
+    padding: 15px;
+}
+
+.contendorCortes{
+    display: flex;
+    padding: 15px;
+    flex-direction: column;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.col .card {
+    margin-bottom: 10px ;
+    box-shadow: 0 10px 15px rgb(35 86 82 / 10%) ;
+}
+.carouselC{
+    margin-bottom: 30px;
+    box-shadow: 20px 20px 30px rgb(35 86 82 / 20%) ;
+}
